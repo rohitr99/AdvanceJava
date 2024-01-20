@@ -1,0 +1,20 @@
+customer  call the data entry operator at call center and data entry operator add,edit,delete the channnel pack following chanel pack
+ 1) base pack: a) Disco Hindi b) classical magic c) western Goodies
+     2) sport pack
+     3) comedy pack
+
+ base pack is mandatory where sport and comedy pack is optional and at a time either sport or comedy pack is allowed .....develope a spring mvc appln. that display a Home Page whic provides link to perform following functionalities
+
+ 1)table script: create table customers (cust_no varchar(15) primary key, BasePack varchar(20)); 
+2) fucntionalities:
+    -> Retrive all customer records: and display in tabular format. Nmae report as "customer Details"
+
+    -> retrive perticular customer record : retrive record of selected customer
+
+    -> update customer record
+
+    -> display currrent selection for the customer
+    -> Allow select base pack from combo Box it should select :
+    -> Disco hindi
+    -> classical magic
+    -> western Goddies
